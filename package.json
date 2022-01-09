@@ -1,0 +1,23 @@
+{
+  "name": "minimal-clock",
+  "version": "1.0.0",
+  "description": "Minimal clock",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarmandoHernandez/minimal-clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarmandoHernandez/minimal-clock/issues"
+  },
+  "homepage": "https://github.com/HarmandoHernandez/minimal-clock#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
